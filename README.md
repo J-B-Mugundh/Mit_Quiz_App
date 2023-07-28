@@ -12,7 +12,7 @@ MIT Quiz App is a simple interactive quiz application developed using HTML, CSS,
 
 ## Demo
 
-You can view a live demo of the MIT Quiz App by clicking [here](https://example.com).
+You can view a live demo of the MIT Quiz App by clicking [here](https://j-b-mugundh.github.io/Mit_Quiz_App/).
 
 ## Features
 
