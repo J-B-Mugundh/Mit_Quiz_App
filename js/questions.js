@@ -299,4 +299,63 @@ let questions = [
     "New York"
   ]
 },
+{
+  numb: 27,
+  question: "What is the capital city of Japan?",
+  answer: "Tokyo",
+  options: [
+  "Kyoto",
+  "Seoul",
+  "Beijing",
+  "Tokyo"
+  ]
+  },
+  
+  {
+  numb: 28,
+  question: "Which country is famous for the Taj Mahal?",
+  answer: "India",
+  options: [
+  "Egypt",
+  "India",
+  "Turkey",
+  "China"
+  ]
+  },
+  
+  {
+  numb: 29,
+  question: "What is the largest planet in our solar system?",
+  answer: "Jupiter",
+  options: [
+  "Mars",
+  "Venus",
+  "Saturn",
+  "Jupiter"
+  ]
+  },
+  
+  {
+  numb: 30,
+  question: "Which famous scientist developed the theory of general relativity?",
+  answer: "Albert Einstein",
+  options: [
+  "Isaac Newton",
+  "Marie Curie",
+  "Charles Darwin",
+  "Albert Einstein"
+  ]
+  },
+  
+  {
+  numb: 31,
+  question: "Which river is the longest in the world?",
+  answer: "Nile",
+  options: [
+  "Amazon",
+  "Nile",
+  "Yangtze",
+  "Mississippi"
+  ]
+  }
 ];
