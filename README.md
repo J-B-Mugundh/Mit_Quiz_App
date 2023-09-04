@@ -43,3 +43,5 @@ The MIT Quiz App is open-source and licensed under the [MIT License](LICENSE). Y
 ---
 
 Feel free to update the demo link and other sections as per your project's details. This README.md provides a basic structure that you can expand upon with additional information about the project, setup instructions, or other relevant details.
+
+Feel free you use! 😊
